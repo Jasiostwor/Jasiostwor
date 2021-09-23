@@ -8,5 +8,3 @@
 <img align="Left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 
-## Coding activity
-<img width="47%" src="https://wakatime.com/share/@88678be3-31d8-4884-9027-f66ec9e82a6a/e757737c-2117-44f3-b96e-562421ade9ce.svg"/>
