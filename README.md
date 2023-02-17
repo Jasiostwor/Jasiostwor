@@ -1,4 +1,4 @@
-# Siema siemka, ziarnko do ziarenka 😎🤙
+# 😎🤙
 
 
 <img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jasiostwor&show_icons=true&theme=merko"/>
